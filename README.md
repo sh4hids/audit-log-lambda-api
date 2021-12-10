@@ -3,11 +3,11 @@
 ### Clone and prepare kit
 
 ```bash
-git clone https://github.com/sh4hids/audit-log-lambda-api.git
+git clone git@github.com:sh4hids/audit-log-lambda-api.git
 ```
 
 ```bash
-cd api-starter-kits
+cd audit-log-lambda-api
 ```
 
 ```bash
