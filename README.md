@@ -1,9 +1,9 @@
-# Koa Starter Kit (General)
+# audit-log-lambda-api
 
 ### Clone and prepare kit
 
 ```bash
-git clone git@github.com:sh4hids/api-starter-kits.git -b koa-general
+git clone https://github.com/sh4hids/audit-log-lambda-api.git
 ```
 
 ```bash
